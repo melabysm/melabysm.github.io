@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Melabysm-clone",
-    "currentPage": "echos.html",
+    "currentPage": "glimpse.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -55,8 +55,8 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 65,
-    "versionPublish": "4.8.6",
+    "uniqCompNum": 69,
+    "versionPublish": "4.8.10",
     "favicon": "@PROJECT_PATH@/assets/images/artboard-1-128x128.png",
     "noImageResize": "true",
     "screenshot": "screenshot.png",
@@ -154,6 +154,60 @@
             }
           },
           "_anchor": "instagram-feed-block-m"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background": "linear-gradient(45deg, @color2, @bg-value)"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".main": {
+              "& when (@reverseContent)": {
+                "flex-direction": "row-reverse",
+                "-webkit-flex-direction": "row-reverse",
+                ".mbr-section-btn": {
+                  "text-align": "right"
+                }
+              }
+            },
+            ".btn": {
+              "margin": "0 0 .5rem 0"
+            }
+          },
+          "_name": "info2",
+          "_customHTML": "<section class=\"mbr-section info2\" group=\"Info\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subttle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Text on Right/Left\" name=\"reverseContent\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/img/04.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#25aab2\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#dbd4b8\" condition=\"bg.type=='color'\" selected>\n\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#25aab2\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row main justify-content-center\">\n            <div class=\"media-container-column col-12 col-lg-3 col-md-4\">\n                <div class=\"mbr-section-btn align-left py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">\n                    <span class=\"mbri-preview mbr-iconfont\"></span>\n                    SEE MORE\n                    </a>\n                </div>\n            </div>\n            <div class=\"media-container-column title col-12 col-lg-7 col-md-6\">\n                <h2 mbr-if=\"showTitle\" class=\"align-right mbr-bold mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    GRADIENT BACKGROUND\n                </h2>\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-right mbr-light mbr-white mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                    Info block with gradient. Text is aligned to right.\n                </h3>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rexg2FL1JY",
+          "_anchor": "info2-1t",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            }
+          },
+          "_name": "footer6",
+          "_customHTML": "<section group=\"Footers\" global once mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\" checked>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/img-20180328-152405-311-2000x1333.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#000000\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\"><a href=\"melabysm.html\">\n                    melabysma</a></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "footer6-1w",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "rexgWNgeJh",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": true,
+          "_params": {}
         }
       ]
     },
