@@ -60,20 +60,21 @@
     "favicon": "@PROJECT_PATH@/assets/images/artboard-1-128x128.png",
     "noImageResize": "true",
     "screenshot": "screenshot.png",
-    "cookiesAlert": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "gdpr": "",
-    "google-analytics": "",
-    "siteUrl": "undefined",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-132030591-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-132030591-1');\r\n</script>",
+    "siteUrl": "https://melabysm.github.io/melabysm.html",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "",
-    "sitemapSwitcherAuto": "on"
+    "robotsSwitcher": "on",
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "jade.html": {
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "Jade Lynx",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -212,7 +213,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Glimpse",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -388,7 +389,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "Creations",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -801,7 +802,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "Answers",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -954,7 +955,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "Echos",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1715,7 +1716,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Abysmal",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
