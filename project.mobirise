@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Melabysm",
-    "currentPage": "abyss.html",
+    "currentPage": "Melabysm.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -58,7 +58,7 @@
     "uniqCompNum": 65,
     "versionPublish": "4.8.10",
     "favicon": "@PROJECT_PATH@/assets/images/artboard-1-128x128.png",
-    "noImageResize": "true",
+    "noImageResize": "",
     "screenshot": "screenshot.png",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "gdpr": "",
