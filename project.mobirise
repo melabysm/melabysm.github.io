@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Melabysm",
-    "currentPage": "Melabysm.html",
+    "currentPage": "glimpse.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -222,20 +222,20 @@
           "_params": {
             "token": "346115016.727bfe1.d013f398dbd94f29aec3d87ca34f5458",
             "showTitle": true,
-            "layoutGridRadio": true,
+            "layoutGridRadio": false,
             "imagesPerRowGrid": "6",
             "rows": "3",
             "showMoreButton": true,
-            "layoutSliderRadio": false,
-            "imagesPerRowSlider": 4,
-            "spacing": "6",
+            "layoutSliderRadio": true,
+            "imagesPerRowSlider": "4",
+            "spacing": "8",
             "fullWidth": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgColorRadio": false,
             "bgColor": "#465052",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-20171020-140546-129-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20171020-140546-130-2000x1333.jpg",
             "overlay": false,
             "overlayColor": "#efefef",
             "overlayOpacity": 0.6
