@@ -1,4 +1,4 @@
-<img src="header.png" align="center" />
+<img src="head@2x.png" align="center" />
 
 # M E L A B Y S M 
 
