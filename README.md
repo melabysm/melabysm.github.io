@@ -4,10 +4,10 @@
 
 > _/mel.ə.'bɪ.zəm/_
 
-_Are you willing to drown?_
+Are you willing to drown?
 
-[Melanch⭓ly Abysmal](https://melabysm.github.io/melabysm.html)
+Melanch⭓ly Abysmal
 
-🌢
+[🌢](https://melabysm.github.io/melabysm.html)
 
 <img src="footer.png" align="center" />
