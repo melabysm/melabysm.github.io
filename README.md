@@ -4,9 +4,7 @@
 
 > _/mel.ə.'bɪ.zəm/_
 
-Are you willing to drown?
-
-Melanch⭓ly Abysmal
+Are you willing to drown in Melanch⭓ly Abysmal?
 
 [🌢](https://melabysm.github.io/melabysm.html)
 
