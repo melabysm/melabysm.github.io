@@ -6,6 +6,6 @@
 
 _Are you willing to drown?_
 
-[__`Melanch⭓ly Abysmal`__](https://melabysm.github.io/melabysm.html)
+[`Melanch⭓ly Abysmal`](https://melabysm.github.io/melabysm.html)
 
 <img src="footer.png" align="center" />
