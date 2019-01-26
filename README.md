@@ -4,7 +4,7 @@
 
 > _/mel.ə.'bɪ.zəm/_
 
-_Would you dare to drown in __Melanch⭓ly Abysmal__ ?_
+Drown in __Melanch⭓ly Abysmal__ ?
 
 🌢  [🌢](https://melabysm.github.io/melabysm.html)
 
