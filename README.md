@@ -4,7 +4,7 @@
 
 > _/mel.ə.'bɪ.zəm/_
 
-##### 🌢  Drown in Melanch⭓ly Abysmal ?
+### 🌢  Drown in Melanch⭓ly Abysmal ?
 
 [🌢](https://melabysm.github.io/melabysm.html)
 
