@@ -4,8 +4,8 @@
 
 > _/mel.ə.'bɪ.zəm/_
 
-Drown in __Melanch⭓ly Abysmal__ ?
+🌢  Drown in __Melanch⭓ly Abysmal__ ?
 
-🌢  [🌢](https://melabysm.github.io/melabysm.html)
+[🌢](https://melabysm.github.io/melabysm.html)
 
 <img src="footer.png" align="center" />
