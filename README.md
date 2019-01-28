@@ -8,4 +8,4 @@
 
 [🌢](https://melabysm.github.io/melabysm.html)
 
-<img src="footer.png" align="center" />
+<img src="Artboard 2@2x.png" align="center" />
