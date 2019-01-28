@@ -8,12 +8,4 @@
 
 [🌢](https://melabysm.github.io/melabysm.html)
 
-<i class="fas fa-tint"></i>
-
-:fas fa-tint: 
-
-<i class="fas fa-water"></i>
-
-:fas fa-water:
-
 <img src="Artboard 2@2x.png" align="center" />
