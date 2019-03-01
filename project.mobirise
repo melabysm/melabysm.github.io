@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Melabysm",
-    "currentPage": "profolio.html",
+    "currentPage": "echos.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1393,7 +1393,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "",
+                "text": "There a moments <br>in which I could feel the presence of hollowness, inside me,&nbsp;<br>wrecking me off and crawling me out\n<br>\n<br>Less like that emptiness, <br>existed within mortality along their own space of hearts, \n<br>waiting to be filled up\n<br>\n<br>More like those vacant voids, <br>keep eroding and corroding one’s psyche&nbsp;<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323"
               },
