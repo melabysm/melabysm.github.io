@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Melabysm",
-    "currentPage": "Melabysm.html",
+    "currentPage": "creations.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -653,7 +653,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/mam-non-vang-anh-vang-anh-kindergarden-2000x1333.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -707,7 +707,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/creative-space-bookmark-2000x1333.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
