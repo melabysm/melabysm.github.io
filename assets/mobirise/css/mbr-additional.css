@@ -1810,6 +1810,12 @@ body {
 .cid-qYXIu1zNsg .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
+.cid-qYXIu1zNsg H2 {
+  text-align: left;
+}
+.cid-qYXIu1zNsg P {
+  text-align: center;
+}
 .cid-reFre9hs5t {
   padding-top: 15px;
   padding-bottom: 15px;

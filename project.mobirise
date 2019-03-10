@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Melabysm",
-    "currentPage": "glossary.html",
+    "currentPage": "creations.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -55,7 +55,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 96,
+    "uniqCompNum": 94,
     "versionPublish": "4.9.4",
     "favicon": "@PROJECT_PATH@/assets/images/artboard-1-128x128.png",
     "noImageResize": "",
@@ -626,6 +626,12 @@
             },
             ".mbr-overlay ~ .container-slide": {
               "z-index": "auto"
+            },
+            "H2": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_name": "slider1",
@@ -645,6 +651,24 @@
             "slides__autoplayInterval": 4000,
             "slides__showBullets": false,
             "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/mam-non-vang-anh-vang-anh-kindergarden-2000x1333.png",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-2",
+                "customStyle2": "display-2",
+                "customStyle3": "display-4",
+                "title": "",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "<br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; for my acquaintance&nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0"
+              },
               {
                 "image": "@PROJECT_PATH@/assets/images/mid-autumn-festival-moon-event-banner-2000x1333.jpg",
                 "active": false,
@@ -683,7 +707,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/creative-space-bookmark-2000x1333.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1255,7 +1279,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20180421-113122-10-2000x1125.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1345,7 +1369,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-2447.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
