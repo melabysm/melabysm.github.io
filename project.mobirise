@@ -1315,7 +1315,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20180419-75913.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1368,8 +1368,26 @@
                 "overlayColor": "#232323"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/psx-20180306-212750-2000x3555.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20180419-080048-233-2000x2500.jpg",
                 "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-4",
+                "customStyle2": "display-2",
+                "customStyle3": "display-4",
+                "title": "<br><br>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "<br>\n<br>Now you're here and soon you're gone \n<br>Still I'm here but then I'm not",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayColor": "#232323"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/psx-20180306-212750-2000x3555.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1387,7 +1405,7 @@
                 "overlayOpacity": "0.4"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-20180419-080048-233-2000x2500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/psx-20190315-195105-2000x1125.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -1400,7 +1418,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<br>\n<br>Now you're here and soon you're gone \n<br>Still I'm here but then I'm not",
+                "text": "She needs love, he wants lust\n<br>They just fcked\n<br>\n<br>She's so hopeless, still he's reckless\n<br>Now they're done<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323"
               },
@@ -1644,24 +1662,6 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/psx-20190315-202128-2000x1123.jpg",
                 "active": true,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-4",
-                "customStyle2": "display-2",
-                "customStyle3": "display-4",
-                "title": "<br><br>",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "She needs love, he wants lust\n<br>They just fcked\n<br>\n<br>She's so hopeless, still he's reckless\n<br>Now they're done<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayColor": "#232323"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/psx-20190315-195105-2000x1125.jpg",
-                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
