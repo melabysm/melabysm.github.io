@@ -1443,7 +1443,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/psx-20190315-202128-2000x1123.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1569,42 +1569,6 @@
                 "overlayColor": "#232323"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-1581.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-4",
-                "customStyle2": "display-2",
-                "customStyle3": "display-4",
-                "title": "<br><br>",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayColor": "#232323"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-1611.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-4",
-                "customStyle2": "display-2",
-                "customStyle3": "display-4",
-                "title": "<br><br>",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "Cried her a river<br>Loathed her an ocean<br>still, I'm a black hole swallowing itself and everything around it for loving her",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayColor": "#232323"
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/img-1607.jpg",
                 "active": false,
                 "showButtons": false,
@@ -1624,8 +1588,8 @@
                 "overlayOpacity": "0.4"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/psx-20190315-194823-2000x1125.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-1611.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1637,7 +1601,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "She needs love, he wants lust\n<br>They just fcked\n<br>\n<br>She's so hopeless, still he's reckless\n<br>Now they're done<br>",
+                "text": "Cried her a river<br>Loathed her an ocean<br>still, I'm a black hole swallowing itself and everything around it for loving her",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323"
               }
