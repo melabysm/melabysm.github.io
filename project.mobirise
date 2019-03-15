@@ -1368,8 +1368,26 @@
                 "overlayColor": "#232323"
               },
               {
+                "image": "@PROJECT_PATH@/assets/images/psx-20190315-195209-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-4",
+                "customStyle2": "display-2",
+                "customStyle3": "display-4",
+                "title": "<br><br>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "There a moments \n<br>in which I could feel the presence of hollowness, inside me, \n<br>wrecking me off and crawling me out \n<br>\n<br>Less like that emptiness, \n<br>existed within mortality along their own space of hearts, \n<br>waiting to be filled up \n<br>\n<br>More like those vacant voids, \n<br>keep eroding and corroding one’s psyche&nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayColor": "#232323"
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/img-20180419-080048-233-2000x2500.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1387,7 +1405,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/psx-20180306-212750-2000x3555.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1399,7 +1417,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "I love you to the moon and back<br><br>back<br>to<br>myself",
+                "text": "dream, <br>sometimes, is the only thing that one has,<br>left.<br>so let's make the most of it and just be sad&nbsp;<br><br><br><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323",
                 "overlayOpacity": "0.4"
@@ -1418,7 +1436,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "She needs love, he wants lust\n<br>They just fcked\n<br>\n<br>She's so hopeless, still he's reckless\n<br>Now they're done<br>",
+                "text": "found myself in the eye of your hurricane \n<br>lost track of time, lost sense of places&nbsp;<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323"
               },
@@ -1436,7 +1454,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<br>She's craving for tear \n<br>But her eyes are dry \n<br>She desires to cry \n<br>Though her mind is stoned \n<br>\n<br>Breathing in the sound \n<br>So she breathes out her heart \n<br>Breathing in the scar \n<br>Now she breathe out her life \n<br>\n<br>\n<br>Far from the crow, she runs \n<br>And into the wood, she'll go \n<br>\n<br>\n<br>\n<br>Will I ever found her \n<br>Between \n<br>the abyss \n<br>of \n<br>her soul.",
+                "text": "There a moments <br>in which I could feel the presence of hollowness, inside me,&nbsp;<br>wrecking me off and crawling me out\n<br>\n<br>Less like that emptiness, <br>existed within mortality along their own space of hearts, \n<br>waiting to be filled up\n<br>\n<br>More like those vacant voids, <br>keep eroding and corroding one’s psyche&nbsp;<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323",
                 "overlayOpacity": "0.4"
@@ -1510,7 +1528,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "&nbsp;",
+                "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323"
               },
@@ -1528,7 +1546,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<br>I love you to the moon and back\n<br>\n<br>back\n<br>to\n<br>myself",
+                "text": "<br>I love you to the moon and back \n<br>\n<br>back \n<br>to \n<br>myself",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323",
                 "overlayOpacity": "0.4"
