@@ -1399,13 +1399,13 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "found myself in the eye of your hurricane \n<br>lost track of time, lost sense of places&nbsp;",
+                "text": "Now you're here and soon you're gone \n<br>Still I'm here but then I'm not&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/psx-20180306-212750-2000x3555.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1436,7 +1436,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "found myself in the eye of your hurricane \n<br>lost track of time, lost sense of places&nbsp;<br>",
+                "text": "She's craving for tear \n<br>But her eyes are dry \n<br>She desires to cry \n<br>Though her mind is stoned \n<br>\n<br>Breathing in the sound \n<br>So she breathes out her heart \n<br>Breathing in the scar \n<br>Now she breathe out her life \n<br>\n<br>\n<br>Far from the crow, she runs \n<br>And into the wood, she'll go \n<br>\n<br>\n<br>\n<br>Will I ever found her \n<br>Between \n<br>the abyss \n<br>of \n<br>her soul.<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323"
               },
@@ -1491,7 +1491,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "She needs love, he wants lust\n<br>They just fcked\n<br>\n<br>She's so hopeless, still he's reckless\n<br>Now they're done<br>",
+                "text": "Will you ever. . .<br>Will you ever hear my lungs, screaming out your name,every breath I take<br>Will you ever meet these eyes, searching for those yours, longing for one glance<br>And will you ever find, that silhouette of my, drifting through your steps<br>Like the shadow of your, binded, no sight left, just silent<br>So will you ever ?<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323"
               },
@@ -1509,14 +1509,14 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Will you ever. . .\n<br>Will you ever hear my lungs, screaming out your name, every breath I take\n<br>Will you ever meet these eyes, searching for those yours, longing for one glance\n<br>And will you ever find, that silhouette of my, drifting through your steps\n<br>Like the shadow of your, binded, no sight left, just silent\n<br>So will you ever ?",
+                "text": "Found myself in the eye of your hurricane \n<br>lost track of time, lost sense of places&nbsp;<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323",
                 "overlayOpacity": "0.4"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-2452.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
