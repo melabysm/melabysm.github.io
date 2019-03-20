@@ -1515,7 +1515,7 @@
                 "overlayOpacity": "0.4"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/psx-20190320-112718-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/psx-20190320-112719-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -1533,7 +1533,7 @@
                 "overlayColor": "#232323"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/psx-20190320-112741-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/psx-20190320-112742-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -1551,7 +1551,7 @@
                 "overlayColor": "#232323"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/psx-20190320-113335-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/psx-20190320-113336-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -1569,7 +1569,25 @@
                 "overlayColor": "#232323"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/psx-20190320-113308-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/psx-20190320-113309-2000x1333.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-4",
+                "customStyle2": "display-2",
+                "customStyle3": "display-4",
+                "title": "<br><br>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayColor": "#232323"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/psx-20190315-200022-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -1587,25 +1605,7 @@
                 "overlayColor": "#232323"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/psx-20190315-200021-2000x1333.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-4",
-                "customStyle2": "display-2",
-                "customStyle3": "display-4",
-                "title": "<br><br>",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayColor": "#232323"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/psx-20190315-195954-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/psx-20190315-195955-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -1623,8 +1623,8 @@
                 "overlayColor": "#232323"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/psx-20190320-113147-2000x1333.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/psx-20190320-113148-2000x1333.jpg",
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
