@@ -1376,6 +1376,17 @@ body {
     flex: auto!important;
   }
 }
+.jq-selectbox li:hover,
+.jq-selectbox li.selected {
+  background-color: #c1c1c1;
+  color: #000000;
+}
+.jq-selectbox .jq-selectbox__trigger-arrow {
+  border-top-color: contrast(currentColor, #000000, #ffffff, 30%);
+}
+.jq-selectbox:hover .jq-selectbox__trigger-arrow {
+  border-top-color: #c1c1c1;
+}
 .cid-qYN5ZfyUuT {
   background-image: url("../../../assets/images/img-20180328-152405-311-2000x1333.jpg");
 }
