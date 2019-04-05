@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Melabysm",
-    "currentPage": "Melabysm.html",
+    "currentPage": "echos.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -55,7 +55,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 104,
+    "uniqCompNum": 94,
     "versionPublish": "4.9.6",
     "favicon": "@PROJECT_PATH@/assets/images/artboard-1-128x128.png",
     "noImageResize": "",
@@ -2402,7 +2402,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "How to love your own reflection?<br>Looking in mirror hating yourself<br><br><br>",
+                "text": "How to love your own reflection<br>Looking in mirror hating yourself<br>But how to hate your own self<br>Looking in mirror finding no reflection<br><br>Perharp, it's all in one's head that care<br>and they're all just steaks, just shapes, just silhouette.<br><br><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323"
               },
@@ -2438,7 +2438,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<br>He's uninhabitable, I'm rootless\n<br>His core is cavernous and mine is foul",
+                "text": "<br>He's uninhabitable, I'm rootless\n<br>His core is cavernous and mine is rotten",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323"
               },
@@ -2474,7 +2474,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "He looked at me <br>(if he ever really did)<br>the way our sun look at us creatures<br>Just a dim shade of grays,<br>trifling,<br>insignificant.<br><br>And it burned like hell, his glare<br>but it can be so mild,<br>so tepid<br>too tepid<br><br>Now tell me<br>can i not <br>need <br>him ?<br><br>",
+                "text": "He looked at me <br>(if he ever really did)<br>the way our sun looked at us creatures<br>Just a flawed shade of grays,<br>trifling,<br>insignificant.<br><br>And it burned like hell, his glare<br>but it can be so mild,<br>so tepid<br>too tepid<br><br>Now tell me<br>can i not <br>need <br>him ?<br><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323"
               },
