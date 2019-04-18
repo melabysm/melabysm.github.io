@@ -2255,7 +2255,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "dream, <br>sometimes, is the only thing that one has,<br>left.<br>so let's make the most of it and just be sad&nbsp;<br><br><br><br>",
+                "text": "dream, <br>sometimes, is the only thing that one has,<br>left.&nbsp;<br><br><br><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323",
                 "overlayOpacity": "0.4"
