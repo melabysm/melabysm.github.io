@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Melabysm",
-    "currentPage": "visions.html",
+    "currentPage": "echos.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -55,7 +55,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 98,
+    "uniqCompNum": 94,
     "versionPublish": "4.9.6",
     "favicon": "@PROJECT_PATH@/assets/images/artboard-1-128x128.png",
     "noImageResize": "",
@@ -2402,7 +2402,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "How to love your own reflection<br>Looking in mirror hating yourself<br>But how to hate your own self<br>Looking in mirror finding no reflection<br><br>Perharp, it's all in one's head that care<br>and they're all just steaks, just shapes, just silhouette.<br><br><br>",
+                "text": "How to love your own reflection<br>Looking in mirror hating yourself<br>But how to hate your own self<br>Looking in mirror finding no reflection<br><br>Perharp, it's all in one's head that care<br>and they're all just steaks, just shapes, just silhouette.<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323"
               },
@@ -2564,7 +2564,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "",
+                "text": "You are what's on my mind when nothing else was<br>My state of unconscious<br>The limit of mine<br><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323"
               },
@@ -2582,7 +2582,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "free fall is just a downward motion<br>and rupture is no more than a state of existence",
+                "text": "free fall is just a downward motion<br>and rupture is no more than an initial&nbsp;state of existence",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323"
               }
@@ -4197,11 +4197,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "reFoZNH5Oa",
+          "_anchor": "footer7-2m",
           "_protectedParams": [],
           "_global": true,
           "_once": true,
-          "_params": {},
-          "_anchor": "footer7-2m"
+          "_params": {}
         },
         {
           "alias": false,
@@ -4616,11 +4616,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "rmGCJLOj5O",
+          "_anchor": "menu1-2n",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {},
-          "_anchor": "menu1-2n"
+          "_params": {}
         }
       ]
     }
