@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Melabysm",
-    "currentPage": "visions.html",
+    "currentPage": "glimpse.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2402,7 +2402,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "How to love your own reflection<br>Looking in mirror hating yourself<br>But how to hate your own self<br>Looking in mirror finding no reflection<br><br>Perharp, it's all in one's head that care<br>and they're all just steaks, just shapes, just silhouette.<br>",
+                "text": "it's all in one's head that care<br>and they're all just steaks, just shapes, just silhouette.<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323"
               },
@@ -2420,7 +2420,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "oh the irony how one monster craving for beauty",
+                "text": "one bite<br>full mouth bittered<br>10% sweet<br>whole heart filled<br><br>wash down throat<br>again, emptiness<br>leave on tongue<br>coated nostalgia<br><br>reminisced<br>that bittersweet sweet<br>ruminated<br>those bittersweet taste",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323"
               },
@@ -4124,9 +4124,9 @@
             "paddingTop": 0,
             "paddingBottom": 0,
             "postToLoad": "10",
+            "facebookToken": "",
             "facebook": "",
             "twitter": "",
-            "google": "",
             "youtube": "UCi9KLGv9E2b3zRBhEjp9Rlw",
             "bgColorRadio": true,
             "bgColor": "#000000",
