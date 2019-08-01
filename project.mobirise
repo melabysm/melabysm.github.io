@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Melabysm",
-    "currentPage": "Melabysm.html",
+    "currentPage": "glimpse.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -642,7 +642,7 @@
             "token": "346115016.727bfe1.d013f398dbd94f29aec3d87ca34f5458",
             "showTitle": true,
             "layoutGridRadio": true,
-            "imagesPerRowGrid": "7",
+            "imagesPerRowGrid": "8",
             "rows": "2",
             "showMoreButton": true,
             "layoutSliderRadio": false,
