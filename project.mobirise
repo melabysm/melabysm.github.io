@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Melabysm",
-    "currentPage": "porfolio.html",
+    "currentPage": "Melabysm.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -55,13 +55,26 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 102,
+    "uniqCompNum": 94,
     "versionPublish": "4.10.7",
     "favicon": "@PROJECT_PATH@/assets/images/artboard-1-128x128.png",
     "noImageResize": "",
     "screenshot": "screenshot.png",
-    "cookiesAlert": "Read our <a href='privacy.html'>cookie policy</a>.",
-    "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
+    "cookiesAlert": {
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "#ffffff",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "text": "Read our <a href='privacy.html'>cookie policy</a>."
+    },
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    },
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-132030591-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-132030591-1');\r\n</script>",
     "siteUrl": "https://melabysm.github.io/melabysm.html",
     "robotsText": "User-Agent: *\nAllow: / ",
@@ -4759,6 +4772,7 @@
           "_name": "gallery2",
           "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.9\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"2\" mbr-gallery-show-filter></div>\n    </div>\n\n</section>",
           "_cid": "rzQdSbj050",
+          "_anchor": "gallery2-2m",
           "_protectedParams": [
             "text_all",
             "gallery__filtersTextStyle",
@@ -5436,8 +5450,7 @@
                 "active": false
               }
             ]
-          },
-          "_anchor": "gallery2-2m"
+          }
         },
         {
           "alias": false,
@@ -6206,6 +6219,7 @@
           "_name": "slider1",
           "_customHTML": "<section class=\"carousel slide\" group=\"Sliders & Gallery\" plugins=\"YTPlayer,VimeoPlayer,SliderVideo,BootstrapCarouselSwipe\" data-interval=\"false\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"carousel\" title=\"Slides\" name=\"slides\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-carousel=\"slides\" class=\"full-screen\" mbr-carousel-embedded></div>\n\n</section>",
           "_cid": "rzTd57vye3",
+          "_anchor": "slider1-2n",
           "_protectedParams": [
             "slides__autoplay",
             "slides__autoplayInterval",
@@ -6310,8 +6324,7 @@
                 "overlayOpacity": "0"
               }
             ]
-          },
-          "_anchor": "slider1-2n"
+          }
         },
         {
           "_styles": {
@@ -6403,11 +6416,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "rzTd581mh1",
+          "_anchor": "footer7-2o",
           "_protectedParams": [],
           "_global": true,
           "_once": true,
-          "_params": {},
-          "_anchor": "footer7-2o"
+          "_params": {}
         },
         {
           "alias": false,
