@@ -28,11 +28,11 @@ body {
   font-size: 1.6rem;
 }
 .display-4 {
-  font-family: 'guildof';
-  font-size: 0.8rem;
+  font-family: 'NegativeSpace';
+  font-size: 1rem;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.28rem;
+  font-size: 1.6rem;
 }
 .display-5 {
   font-family: 'guildof';
@@ -65,9 +65,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 0.64rem;
-    font-size: calc( 0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.8rem;
+    font-size: calc( 1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
     font-size: 0.8rem;
@@ -1413,6 +1413,7 @@ body {
 .cid-qYN5ZfyUuT .mbr-text,
 .cid-qYN5ZfyUuT .mbr-section-btn {
   text-align: right;
+  color: #465052;
 }
 .cid-qYN5ZfyUuT H1 {
   text-align: right;
@@ -4058,7 +4059,10 @@ body {
 }
 .cid-rjWKGBsOdj .mbr-text,
 .cid-rjWKGBsOdj .mbr-section-btn {
-  color: #879a9f;
+  color: #465052;
+}
+.cid-rjWKGBsOdj H1 {
+  color: #232323;
 }
 .cid-reFoZNH5Oa {
   padding-top: 15px;

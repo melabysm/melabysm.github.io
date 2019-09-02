@@ -10,3 +10,7 @@
    font-family: 'guildof';
    src: url('guildof/font.ttf');
 }
+@font-face {
+   font-family: 'NegativeSpace';
+   src: url('NegativeSpace/font.ttf');
+}
