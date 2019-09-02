@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Melabysm",
-    "currentPage": "glossary.html",
+    "currentPage": "porfolio.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4945,6 +4945,19 @@
                 "thumb": "@PROJECT_PATH@/assets/images/sex-money-feelings-die-1595x2834-800x1421.png",
                 "alt": "Lykke Li sex money feelings die lyrics artwork",
                 "title": "sex money feelings die - Lykke Li",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/in-your-arms-1595x2836.png",
+                "thumb": "@PROJECT_PATH@/assets/images/in-your-arms-1595x2836-800x1422.png",
+                "alt": "",
+                "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
