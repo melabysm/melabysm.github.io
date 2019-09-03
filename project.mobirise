@@ -61,7 +61,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 94,
+    "uniqCompNum": 95,
     "versionPublish": "4.10.7",
     "favicon": "",
     "noImageResize": "",
@@ -4981,6 +4981,19 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/breathing-1596x2836.png",
                 "thumb": "@PROJECT_PATH@/assets/images/breathing-1596x2836-800x1422.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/bad-love-1594x2834.png",
+                "thumb": "@PROJECT_PATH@/assets/images/bad-love-1594x2834-800x1422.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
