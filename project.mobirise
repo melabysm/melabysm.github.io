@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Melabysm",
-    "currentPage": "porfolio.html",
+    "currentPage": "Melabysm.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -30,8 +30,7 @@
       "additionalSetColors": [
         "#dfdfdf",
         "#000000",
-        "#fd5900",
-        "#bbb2d2"
+        "#fd5900"
       ]
     },
     "path": "@PROJECT_PATH@",
