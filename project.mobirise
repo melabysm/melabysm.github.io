@@ -4886,7 +4886,7 @@
             }
           },
           "_name": "gallery4",
-          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#fd5900\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#741997\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#cebfaf\">\n        \n        <header>Gallery</header>\n        <input type=\"gallery\" subtype=\"flex\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"2\" mbr-gallery-count=\"4\" mbr-gallery-first-count=\"3\" mbr-gallery-second-count=\"4\" mbr-gallery-third-count=\"3\" mbr-gallery-fourth-count=\"4\"></div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#fd5900\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#741997\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#cebfaf\">\n        \n        <header>Gallery</header>\n        <input type=\"gallery\" subtype=\"flex\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"2\" mbr-gallery-count=\"4\" mbr-gallery-first-count=\"2\" mbr-gallery-second-count=\"3\" mbr-gallery-third-count=\"4\" mbr-gallery-fourth-count=\"3\"></div>\n    </div>\n\n</section>",
           "_cid": "rABc4mIzPu",
           "_anchor": "gallery4-2o",
           "_protectedParams": [
@@ -4896,19 +4896,6 @@
           "_once": false,
           "_params": {
             "gallery": [
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/all-alright-2000x2000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/all-alright-2000x2000-800x800.png",
-                "alt": "Sigur Rós All Alright lyrics artwork",
-                "title": "All Alright - Sigur Rós",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
               {
                 "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -4927,13 +4914,52 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/try-me-2000x2000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/try-me-2000x2000-800x800.png",
-                "alt": "The Weeknd Try Me lyrics artwork",
-                "title": "Try Me - The Weeknd",
+                "image": "@PROJECT_PATH@/assets/images/test-drive-2000x1997.png",
+                "thumb": "@PROJECT_PATH@/assets/images/test-drive-2000x1997-800x799.png",
+                "alt": "",
+                "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/bad-love-1594x2834.png",
+                "thumb": "@PROJECT_PATH@/assets/images/bad-love-1594x2834-800x1422.png",
+                "alt": "Ry X Bad Love lyrics artwork",
+                "title": "Bad Love Ry X ",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/good-girl-1596x2836.png",
+                "thumb": "@PROJECT_PATH@/assets/images/good-girl-1596x2836-800x1422.png",
+                "alt": "Aquilo Good Girl lyrics artwork",
+                "title": "Good Girl - Aquilo",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/in-your-arms-1595x2836.png",
+                "thumb": "@PROJECT_PATH@/assets/images/in-your-arms-1595x2836-800x1422.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Responsive",
@@ -4992,36 +5018,23 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/bad-love-1594x2834.png",
-                "thumb": "@PROJECT_PATH@/assets/images/bad-love-1594x2834-800x1422.png",
-                "alt": "Ry X Bad Love lyrics artwork",
-                "title": "Bad Love Ry X ",
+                "image": "@PROJECT_PATH@/assets/images/try-me-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/try-me-2000x2000-800x800.png",
+                "alt": "The Weeknd Try Me lyrics artwork",
+                "title": "Try Me - The Weeknd",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/good-girl-1596x2836.png",
-                "thumb": "@PROJECT_PATH@/assets/images/good-girl-1596x2836-800x1422.png",
-                "alt": "Aquilo Good Girl lyrics artwork",
-                "title": "Good Girl - Aquilo",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/in-your-arms-1595x2836.png",
-                "thumb": "@PROJECT_PATH@/assets/images/in-your-arms-1595x2836-800x1422.png",
-                "alt": "",
-                "title": "",
+                "image": "@PROJECT_PATH@/assets/images/all-alright-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/all-alright-2000x2000-800x800.png",
+                "alt": "Sigur Rós All Alright lyrics artwork",
+                "title": "All Alright - Sigur Rós",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
