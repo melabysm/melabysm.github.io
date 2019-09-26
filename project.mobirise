@@ -5200,8 +5200,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/in-heaven-2000x2001.png",
                 "thumb": "@PROJECT_PATH@/assets/images/in-heaven-2000x2001-800x800.png",
-                "alt": "",
-                "title": "",
+                "alt": "Lady In The Radiator In Heaven lyrics artwork",
+                "title": "In Heaven - Lady In The Radiator",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
