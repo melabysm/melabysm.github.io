@@ -60,12 +60,6 @@
         "file": "@PROJECT_PATH@/fonts/NegativeSpace/font.ttf"
       },
       {
-        "css": "'BURNN___'",
-        "name": "BURNN___",
-        "url": null,
-        "file": "@PROJECT_PATH@/fonts/BURNN___/font.TTF"
-      },
-      {
         "css": "'BURNL___'",
         "name": "BURNL___",
         "url": null,
@@ -5197,17 +5191,17 @@
                 "title": "All Alright - Sigur Rós",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/im-honestly-not-a-gangster-2000x2000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/im-honestly-not-a-gangster-2000x2000-800x800.png",
-                "alt": "Jerry Folk I'm Honestly Not a Gangster lyrics artwork",
-                "title": "I'm Honestly Not a Gangster - Jerry Folk",
+                "image": "@PROJECT_PATH@/assets/images/in-heaven-2000x2001.png",
+                "thumb": "@PROJECT_PATH@/assets/images/in-heaven-2000x2001-800x800.png",
+                "alt": "",
+                "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
@@ -5288,7 +5282,7 @@
                 "title": "Ride - Lana Del Rey",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           }
