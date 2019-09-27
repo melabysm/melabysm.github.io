@@ -36,10 +36,10 @@ body {
 }
 .display-5 {
   font-family: 'BURNL___';
-  font-size: 7rem;
+  font-size: 8rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 11.2rem;
+  font-size: 12.8rem;
 }
 .display-7 {
   font-family: 'guildof';
@@ -70,9 +70,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 5.6rem;
-    font-size: calc( 3.0999999999999996rem + (7 - 3.0999999999999996) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (3.0999999999999996rem + (7 - 3.0999999999999996) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 6.4rem;
+    font-size: calc( 3.45rem + (8 - 3.45) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (3.45rem + (8 - 3.45) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -5026,9 +5026,21 @@ body {
 .cid-rzTdDBcJ9H .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rDbQWjXzR1 {
+  padding-top: 105px;
+  padding-bottom: 0px;
+  background: linear-gradient(0deg, #fd5900, #971919);
+}
+.cid-rDbQWjXzR1 .mbr-iconfont-social {
+  font-size: 32px;
+  color: #971919;
+}
+.cid-rDbQWjXzR1 .social-list a:focus {
+  text-decoration: none;
+}
 .cid-rABA1Du8o6 {
-  padding-top: 90px;
-  padding-bottom: 15px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background: linear-gradient(0deg, #cebfaf, #fd5900);
 }
 .cid-rABA1Du8o6 .mbr-iconfont-social {
@@ -5128,7 +5140,7 @@ body {
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #fd5900, #741997) !important;
+  background: linear-gradient(to left, #fd5900, #971919) !important;
 }
 .cid-rABc4mIzPu .mbr-gallery-item > div {
   position: relative;
@@ -5161,7 +5173,7 @@ body {
   opacity: 0.5;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #fd5900, #741997) !important;
+  background: linear-gradient(to left, #fd5900, #971919) !important;
 }
 .cid-rCSRmHp4lo {
   padding-top: 0px;
@@ -5199,7 +5211,7 @@ body {
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #fd5900, #741997) !important;
+  background: linear-gradient(to left, #fd5900, #971919) !important;
 }
 .cid-rCSRmHp4lo .mbr-gallery-item > div {
   position: relative;
@@ -5232,7 +5244,7 @@ body {
   opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #fd5900, #741997) !important;
+  background: linear-gradient(to left, #fd5900, #971919) !important;
 }
 .cid-rCSY3JQrzk {
   padding-top: 0px;
@@ -5264,7 +5276,7 @@ body {
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #fd5900, #741997) !important;
+  background: linear-gradient(to left, #fd5900, #971919) !important;
 }
 .cid-rCSY3JQrzk .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
@@ -5294,10 +5306,10 @@ body {
   opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #fd5900, #741997) !important;
+  background: linear-gradient(to left, #fd5900, #971919) !important;
 }
 .cid-rABD0WzcVx {
-  padding-top: 30px;
+  padding-top: 120px;
   padding-bottom: 120px;
   background: linear-gradient(0deg, #741997, #cebfaf);
 }
@@ -5337,11 +5349,11 @@ body {
   top: 0;
   width: 100%;
   height: 100%;
-  background: #741997;
+  background: #971919;
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #741997, #25aab2) !important;
+  background: linear-gradient(to left, #971919, #741997) !important;
 }
 .cid-rzQdSbj050 .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
@@ -5367,15 +5379,15 @@ body {
   left: 0;
   z-index: -1;
   position: absolute;
-  background: #741997 !important;
+  background: #971919 !important;
   opacity: 0.9;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #741997, #25aab2) !important;
+  background: linear-gradient(to left, #971919, #741997) !important;
 }
 .cid-rABpLi4n55 {
   padding-top: 120px;
-  padding-bottom: 45px;
+  padding-bottom: 120px;
   background: linear-gradient(0deg, #000000, #741997);
 }
 .cid-rABpLi4n55 .mbr-iconfont-social {
