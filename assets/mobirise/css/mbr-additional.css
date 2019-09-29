@@ -5371,11 +5371,11 @@ body {
   top: 0;
   width: 100%;
   height: 100%;
-  background: #971919;
+  background: #cebfaf;
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #971919, #741997) !important;
+  background: linear-gradient(to left, #cebfaf, #600000) !important;
 }
 .cid-rzQdSbj050 .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
@@ -5401,11 +5401,11 @@ body {
   left: 0;
   z-index: -1;
   position: absolute;
-  background: #971919 !important;
+  background: #cebfaf !important;
   opacity: 0.9;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #971919, #741997) !important;
+  background: linear-gradient(to left, #cebfaf, #600000) !important;
 }
 .cid-rABpLi4n55 {
   padding-top: 120px;
