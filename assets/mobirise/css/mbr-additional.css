@@ -36,10 +36,10 @@ body {
 }
 .display-5 {
   font-family: 'BURNL___';
-  font-size: 8rem;
+  font-size: 7rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 12.8rem;
+  font-size: 11.2rem;
 }
 .display-7 {
   font-family: 'guildof';
@@ -70,9 +70,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 6.4rem;
-    font-size: calc( 3.45rem + (8 - 3.45) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (3.45rem + (8 - 3.45) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 5.6rem;
+    font-size: calc( 3.0999999999999996rem + (7 - 3.0999999999999996) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (3.0999999999999996rem + (7 - 3.0999999999999996) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -5027,9 +5027,9 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-rDbQWjXzR1 {
-  padding-top: 105px;
+  padding-top: 120px;
   padding-bottom: 0px;
-  background: linear-gradient(0deg, #fd5900, #971919);
+  background: linear-gradient(0deg, #c3340e, #971919);
 }
 .cid-rDbQWjXzR1 .mbr-iconfont-social {
   font-size: 32px;
@@ -5041,7 +5041,7 @@ body {
 .cid-rABA1Du8o6 {
   padding-top: 0px;
   padding-bottom: 0px;
-  background: linear-gradient(0deg, #cebfaf, #fd5900);
+  background: linear-gradient(0deg, #fd5900, #c3340e);
 }
 .cid-rABA1Du8o6 .mbr-iconfont-social {
   font-size: 32px;
@@ -5052,7 +5052,29 @@ body {
 }
 .cid-rABA1Du8o6 H2 {
   text-align: center;
-  color: #232323;
+  color: #000000;
+}
+.cid-rDrPIq3DFv {
+  background: #fd5900;
+  padding-top: 0px;
+  padding-bottom: 120px;
+  background: linear-gradient(0deg, #cebfaf, #fd5900);
+}
+.cid-rDrPIq3DFv .image-block {
+  margin: auto;
+}
+.cid-rDrPIq3DFv figcaption {
+  position: relative;
+}
+.cid-rDrPIq3DFv figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rDrPIq3DFv .image-block {
+    width: 100% !important;
+  }
 }
 .cid-rBDhnV4YqV {
   padding-top: 0px;
