@@ -36,10 +36,10 @@ body {
 }
 .display-5 {
   font-family: 'BURNL___';
-  font-size: 6.5rem;
+  font-size: 6rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 10.4rem;
+  font-size: 9.6rem;
 }
 .display-7 {
   font-family: 'guildof';
@@ -70,9 +70,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 5.2rem;
-    font-size: calc( 2.925rem + (6.5 - 2.925) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.925rem + (6.5 - 2.925) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 4.8rem;
+    font-size: calc( 2.75rem + (6 - 2.75) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.75rem + (6 - 2.75) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -4565,8 +4565,8 @@ body {
 }
 .cid-rDrPIq3DFv {
   background: #fd5900;
-  padding-top: 0px;
-  padding-bottom: 120px;
+  padding-top: 30px;
+  padding-bottom: 105px;
   background: linear-gradient(0deg, #cebfaf, #fd5900);
 }
 .cid-rDrPIq3DFv .image-block {
@@ -4586,7 +4586,7 @@ body {
   }
 }
 .cid-rBDhnV4YqV {
-  padding-top: 0px;
+  padding-top: 15px;
   padding-bottom: 15px;
   background: #cebfaf;
 }
@@ -4839,47 +4839,25 @@ body {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #fd5900, #971919) !important;
 }
-.cid-rDsgp3RSai {
-  background: #cebfaf;
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background: linear-gradient(0deg, #a92415, #cebfaf);
-}
-.cid-rDsgp3RSai .image-block {
-  margin: auto;
-}
-.cid-rDsgp3RSai figcaption {
-  position: relative;
-}
-.cid-rDsgp3RSai figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rDsgp3RSai .image-block {
-    width: 100% !important;
-  }
-}
-.cid-rABD0WzcVx {
-  padding-top: 0px;
+.cid-rEvHFUiDoz {
+  padding-top: 120px;
   padding-bottom: 120px;
-  background: linear-gradient(0deg, #600000, #a92415);
+  background: linear-gradient(0deg, #4f4943, #cebfaf);
 }
-.cid-rABD0WzcVx .mbr-iconfont-social {
+.cid-rEvHFUiDoz .mbr-iconfont-social {
   font-size: 32px;
   color: #232323;
 }
-.cid-rABD0WzcVx .social-list a:focus {
+.cid-rEvHFUiDoz .social-list a:focus {
   text-decoration: none;
 }
-.cid-rABD0WzcVx H2 {
+.cid-rEvHFUiDoz H2 {
   text-align: center;
 }
 .cid-rzQdSbj050 {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #600000;
+  background-color: #4f4943;
 }
 .cid-rzQdSbj050 .mbr-slider .carousel-control {
   background: #1b1b1b;
@@ -4941,7 +4919,7 @@ body {
 .cid-rABpLi4n55 {
   padding-top: 120px;
   padding-bottom: 120px;
-  background: linear-gradient(0deg, #000000, #600000);
+  background: linear-gradient(0deg, #000000, #4f4943);
 }
 .cid-rABpLi4n55 .mbr-iconfont-social {
   font-size: 32px;
