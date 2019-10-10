@@ -4670,7 +4670,7 @@
                 "title": "Blue Jeans - Lana Del Rey",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -4679,8 +4679,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/lust-for-life-2000x1999.png",
                 "thumb": "@PROJECT_PATH@/assets/images/lust-for-life-2000x1999-800x800.png",
-                "alt": "Lana Del Rey ft. The Weeknd Lust For Life lyrics artwork",
-                "title": "Lust For Life - Lana Del Rey ft. The Weeknd",
+                "alt": "",
+                "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
@@ -4729,8 +4729,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/try-me-2000x2000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/try-me-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/privilege-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/privilege-2000x2000-800x800.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -4755,13 +4755,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/privilege-2000x2000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/privilege-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/try-me-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/try-me-2000x2000-800x800.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
