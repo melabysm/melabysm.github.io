@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Melabysm",
-    "currentPage": "visions.html",
+    "currentPage": "porfolio.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3614,8 +3614,8 @@
         {
           "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 0,
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "postToLoad": "10",
             "facebookToken": "",
             "facebook": "",
