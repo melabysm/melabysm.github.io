@@ -4443,9 +4443,9 @@ body {
   background: linear-gradient(to left, #fd5900, #971919) !important;
 }
 .cid-rEvHFUiDoz {
-  padding-top: 120px;
+  padding-top: 30px;
   padding-bottom: 120px;
-  background: linear-gradient(0deg, #82786e, #cebfaf);
+  background: linear-gradient(0deg, #fd5900, #cebfaf);
 }
 .cid-rEvHFUiDoz .mbr-iconfont-social {
   font-size: 32px;
@@ -4457,10 +4457,32 @@ body {
 .cid-rEvHFUiDoz H2 {
   text-align: center;
 }
+.cid-rEYVfxndCd {
+  background: #fd5900;
+  padding-top: 0px;
+  padding-bottom: 120px;
+  background: linear-gradient(0deg, #971919, #fd5900);
+}
+.cid-rEYVfxndCd .image-block {
+  margin: auto;
+}
+.cid-rEYVfxndCd figcaption {
+  position: relative;
+}
+.cid-rEYVfxndCd figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rEYVfxndCd .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rzQdSbj050 {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #82786e;
+  background-color: #971919;
 }
 .cid-rzQdSbj050 .mbr-slider .carousel-control {
   background: #1b1b1b;
@@ -4522,7 +4544,7 @@ body {
 .cid-rABpLi4n55 {
   padding-top: 120px;
   padding-bottom: 120px;
-  background: linear-gradient(0deg, #000000, #82786e);
+  background: linear-gradient(0deg, #000000, #971919);
 }
 .cid-rABpLi4n55 .mbr-iconfont-social {
   font-size: 32px;
