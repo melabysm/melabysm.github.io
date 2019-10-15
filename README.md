@@ -4,4 +4,4 @@
 
 > _/mel.ə.'bɪ.zəm/_
 
-[![Red Eye](eye.png "R E Y E D")][https://melabysm.github.io/melabysm.html]
+[![Red Eye](eye.png "R E Y E D")](https://melabysm.github.io/melabysm.html)
