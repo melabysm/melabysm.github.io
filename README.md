@@ -1,11 +1,7 @@
-<img src="Artboard 1@2x.png" align="center" />
+[<img src="eye.png" align="center" />](https://melabysm.github.io/melabysm.html)
 
 # M E L A B Y S M 
 
 > _/mel.ə.'bɪ.zəm/_
 
-##### 🌢  Drown in __Melanch⭓ly Abysmal__ ?
-
-[🌢](https://melabysm.github.io/melabysm.html)
-
-<img src="Artboard 2@2x.png" align="center" />
+[![Red Eye](eye.png "R E Y E D")][https://melabysm.github.io/melabysm.html]
