@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Melabysm",
-    "currentPage": "being.html",
+    "currentPage": "portfolio.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -17,8 +17,8 @@
         "display1Size": 4.25,
         "display2Font": "Fluox___",
         "display2Size": "1",
-        "display5Font": "guildof",
-        "display5Size": "1",
+        "display5Font": "BURNL___",
+        "display5Size": "6",
         "display7Font": "guildof",
         "display7Size": "1",
         "display4Font": "NegativeSpace",
@@ -58,6 +58,12 @@
         "name": "NegativeSpace",
         "url": null,
         "file": "@PROJECT_PATH@/fonts/NegativeSpace/font.ttf"
+      },
+      {
+        "css": "'BURNL___'",
+        "name": "BURNL___",
+        "url": null,
+        "file": "@PROJECT_PATH@/fonts/BURNL___/font.TTF"
       }
     ],
     "versionFirst": "4.7.6",
