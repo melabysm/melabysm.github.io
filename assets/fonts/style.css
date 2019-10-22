@@ -1,20 +1,25 @@
 @font-face {
    font-family: 'QG';
+   font-display: swap;
    src: url('QG/font.ttf');
 }
 @font-face {
    font-family: 'Fluox___';
+   font-display: swap;
    src: url('Fluox___/font.ttf');
 }
 @font-face {
    font-family: 'BURNL___';
+   font-display: swap;
    src: url('BURNL___/font.TTF');
 }
 @font-face {
    font-family: 'guildof';
+   font-display: swap;
    src: url('guildof/font.ttf');
 }
 @font-face {
    font-family: 'NegativeSpace';
+   font-display: swap;
    src: url('NegativeSpace/font.ttf');
 }

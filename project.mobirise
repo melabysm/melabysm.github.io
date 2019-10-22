@@ -30,8 +30,7 @@
       "additionalSetColors": [
         "#dfdfdf",
         "#000000",
-        "#fd5900",
-        "#971919"
+        "#fd5900"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -68,8 +67,8 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 95,
-    "versionPublish": "4.10.7",
+    "uniqCompNum": 94,
+    "versionPublish": "4.11.2",
     "favicon": "@PROJECT_PATH@/assets/images/eye-128x76.png",
     "noImageResize": "",
     "screenshot": "screenshot.png",
@@ -91,11 +90,12 @@
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-132030591-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-132030591-1');\r\n</script>",
     "siteUrl": "https://melabysm.github.io/melabysm.html",
     "robotsText": "User-Agent: *\nAllow: / \n",
-    "robotsSwitcher": "on",
-    "sitemapSwitcherAuto": "on",
-    "sitemapSwitcher": "on",
+    "robotsSwitcher": true,
+    "sitemapSwitcherAuto": true,
+    "sitemapSwitcher": true,
     "witsec-white-label": "on",
-    "witsec-language": ""
+    "witsec-language": "",
+    "": "on"
   },
   "pages": {
     "glimpse.html": {
@@ -1225,7 +1225,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "A little bit of light left behind by day<br>A little bit of light scattered in twilight<br>A little bit of light glimmer through nightfall<br>A little bit of light, alone amidst grey sky<br>",
+                "text": "A little bit of sight left behind by day<br>A little bit of wight scattered in twilight<br>A little bit of light glimmer through nightfall<br>A little bit of wight, lonely amidst grey sky<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323",
                 "overlayOpacity": "0.4"
@@ -1460,7 +1460,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Watering eyes, sleepless night<br>Heaving moonlight, restless tide<br>Lone walk, linger through drab graves<br>Gaunt tread, buried in sharp waves<br>Sable ocean reflected empty sky<br>Sombre eyes restrained sundry motions<br><br>Vanished vanishing point<br>Rendering&nbsp;render null and void<br><br>&nbsp;",
+                "text": "Watering eyes, sleepless night<br>Heaving moonlight, restless tide<br>Lone walk, linger through drab graves<br>Gaunt tread, buried in sharp waves<br>Sable ocean reflected empty sky<br>Sombre eyes restrained sundry motions<br><br>Vanished vanishing point<br>Rendering&nbsp;render null and void<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323"
               },
@@ -3811,7 +3811,7 @@
             }
           },
           "_name": "image3",
-          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"7\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"46\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#fd5900\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" checked condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#cebfaf\" condition=\"gradientBg && fullWidth==false\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/eye-1020x604.png\" width=\"1400\" alt=\"Mobirise\" title>\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"7\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"46\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#fd5900\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" checked condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#cebfaf\" condition=\"gradientBg && fullWidth==false\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/eye-1020x604.png\" width=\"1400\" alt=\"Red Eye Watering Blood\" title=\"Red Eye\">\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
           "_cid": "rDrPIq3DFv",
           "_anchor": "image3-2m",
           "_protectedParams": [],
@@ -3875,7 +3875,7 @@
             }
           },
           "_name": "image4",
-          "_customHTML": "<section group=\"Images & Videos\">\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"82\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"116\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\">\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#ffffff\" condition=\"showCaption\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#cebfaf\">\n    </mbr-parameters>\n    <!-- End block parameters -->\n    <div class=\"container images-container\" mbr-class=\"{'container-fluid':fullWidth,container:fullWidth==false}\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <img src=\"@PROJECT_PATH@/assets/images/artboard-2-876x876.png\" alt=\"Jerry Folk I'm Honestly Not a Gangster lyrics artwork\" title=\"I'm Honestly Not a Gangster - Jerry Folk\">\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">\n                            Responsive\n                        </p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <img src=\"@PROJECT_PATH@/assets/images/hands-to-myself-2000x2697.png\" alt=\"Hands To Myself Golden rendition lyrics artwork\" title=\"Hands To Myself - Golden rendition\">\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">\n                            Mobile friendly\n                        </p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
+          "_customHTML": "<section group=\"Images & Videos\">\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"82\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"116\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\">\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#ffffff\" condition=\"showCaption\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#cebfaf\">\n    </mbr-parameters>\n    <!-- End block parameters -->\n    <div class=\"container images-container\" mbr-class=\"{'container-fluid':fullWidth,container:fullWidth==false}\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <img src=\"@PROJECT_PATH@/assets/images/leave-your-lover-930x930.png\" alt=\"Echos Leave Your Lover lyrics artwork\" title=\"Leave Your Lover - Echos\">\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">\n                            Responsive\n                        </p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <img src=\"@PROJECT_PATH@/assets/images/hands-to-myself-2000x2697.png\" alt=\"Hands To Myself Golden rendition lyrics artwork\" title=\"Hands To Myself - Golden rendition\">\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">\n                            Mobile friendly\n                        </p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
           "_anchor": "image4-2n",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -3995,8 +3995,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/test-drive-2000x1997.png",
                 "thumb": "@PROJECT_PATH@/assets/images/test-drive-2000x1997-800x799.png",
-                "alt": "",
-                "title": "",
+                "alt": "Joji Test Drive lyrics artwork",
+                "title": "Test Drive - Joji",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
@@ -4009,7 +4009,7 @@
                 "image": "@PROJECT_PATH@/assets/images/bad-love-1594x2834.png",
                 "thumb": "@PROJECT_PATH@/assets/images/bad-love-1594x2834-800x1422.png",
                 "alt": "Ry X Bad Love lyrics artwork",
-                "title": "Bad Love Ry X ",
+                "title": "Bad Love - Ry X ",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
@@ -4034,8 +4034,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/in-your-arms-1595x2836.png",
                 "thumb": "@PROJECT_PATH@/assets/images/in-your-arms-1595x2836-800x1422.png",
-                "alt": "",
-                "title": "",
+                "alt": "Sunbeam Sound Machine In Your Arms lyrics artwork",
+                "title": "In Your Arms - Sunbeam Sound Machine",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
@@ -4099,8 +4099,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/in-heaven-2000x2001.png",
                 "thumb": "@PROJECT_PATH@/assets/images/in-heaven-2000x2001-800x800.png",
-                "alt": "",
-                "title": "",
+                "alt": "In Heaven everything is fine lyrics artwork",
+                "title": "In Heaven everything is fine",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
@@ -4112,8 +4112,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/im-honestly-not-a-gangster-2000x2000.png",
                 "thumb": "@PROJECT_PATH@/assets/images/im-honestly-not-a-gangster-2000x2000-800x800.png",
-                "alt": "",
-                "title": "",
+                "alt": "Jerry Folk I'm Honestly Not a Gangster lyrics artwork",
+                "title": "I'm Honestly Not a Gangster - Jerry Folk",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": true
@@ -4231,8 +4231,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/lust-for-life-2000x1999.png",
                 "thumb": "@PROJECT_PATH@/assets/images/lust-for-life-2000x1999-800x800.png",
-                "alt": "",
-                "title": "",
+                "alt": "Lana Del Rey Lust For Life ft. The Weeknd lyrics artwork",
+                "title": "Lust For Life - Lana Del Rey ft. The Weeknd",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
@@ -4283,8 +4283,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/privilege-2000x2000.png",
                 "thumb": "@PROJECT_PATH@/assets/images/privilege-2000x2000-800x800.png",
-                "alt": "",
-                "title": "",
+                "alt": "The Weeknd Privilege lyrics artwork",
+                "title": "Privilege - The Weeknd",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
@@ -4296,8 +4296,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/head-in-the-clouds-2000x2000.png",
                 "thumb": "@PROJECT_PATH@/assets/images/head-in-the-clouds-2000x2000-800x800.png",
-                "alt": "",
-                "title": "",
+                "alt": "Joji Head in the Clouds lyrics artwork",
+                "title": "Head in the Clouds - Joji",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
@@ -4309,8 +4309,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/try-me-2000x2000.png",
                 "thumb": "@PROJECT_PATH@/assets/images/try-me-2000x2000-800x800.png",
-                "alt": "",
-                "title": "",
+                "alt": "The Weeknd Try Me lyrics artwork",
+                "title": "Try Me - The Weeknd",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
@@ -4475,10 +4475,10 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/rocketeer-2000x2000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/rocketeer-2000x2000-800x800.png",
-                "alt": "",
-                "title": "",
+                "image": "@PROJECT_PATH@/assets/images/rocketeer-1-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/rocketeer-1-2000x2000-800x800.png",
+                "alt": "Far East Movement Rocketeer lyrics artwork",
+                "title": "Rocketeer - Far East Movement",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
@@ -4490,8 +4490,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/all-alright-2000x2000.png",
                 "thumb": "@PROJECT_PATH@/assets/images/all-alright-2000x2000-800x800.png",
-                "alt": "",
-                "title": "",
+                "alt": "Sigur Rós All Alright lyrics artwok",
+                "title": "All Alright - Sigur Rós",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": true
@@ -4516,8 +4516,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/young-and-beautiful-2000x2000.png",
                 "thumb": "@PROJECT_PATH@/assets/images/young-and-beautiful-2000x2000-800x800.png",
-                "alt": "",
-                "title": "",
+                "alt": "Lana Del Rey Young and Beautiful lyrics artwork",
+                "title": "Young and Beautiful - Lana Del Rey",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
@@ -4529,8 +4529,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/a-game-of-badminton-2000x2000.png",
                 "thumb": "@PROJECT_PATH@/assets/images/a-game-of-badminton-2000x2000-800x800.png",
-                "alt": "",
-                "title": "",
+                "alt": "Jane Eyre soundtrack A Game of Badminton",
+                "title": "A Game of Badminton - Dario Marianelli",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
@@ -4607,11 +4607,11 @@
           "_name": "image3",
           "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"8\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"68\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#fd5900\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" checked condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#971919\" condition=\"gradientBg && fullWidth==false\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/artboard-13x-1776x1256.png\" width=\"1400\" alt=\"Mobirise\" title>\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                        Create awesome websites!\n                    </div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
           "_cid": "rEYVfxndCd",
+          "_anchor": "image3-2m",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "image3-2m"
+          "_params": {}
         },
         {
           "alias": false,
@@ -5323,7 +5323,7 @@
             }
           },
           "_name": "social-buttons2",
-          "_customHTML": "<section group=\"Social\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" plugins=\"SocialLikes\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input inline type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input inline type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        \n        <input type=\"color\" title=\"Icons Color\" name=\"iconsColor\" value=\"#000000\"> \n        <select title=\"Icons\" name=\"iconsCount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\" selected>6</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#971919\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"color\" title=\"color2\" name=\"color2\" condition=\"bg.type=='color'\" value=\"#000000\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#efefef\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.9\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-md-8 align-center\">\n                <h2 class=\"pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">\n                    FOLLOW US!\n                </h2>\n                <div class=\"social-list pl-0 mb-0\">\n                    <a href=\"https://twitter.com/melabysm\" target=\"_blank\">\n                        <span mbr-icon class=\"px-2 mbr-iconfont mbr-iconfont-social socicon-twitter socicon\" style=\"font-size: 10px;\"></span>\n                    </a>\n                    <a href=\"https://www.facebook.com/MELABYSM\" target=\"_blank\">\n                        <span mbr-icon class=\"px-2 mbr-iconfont mbr-iconfont-social socicon-facebook socicon\" mbr-if=\"iconsCount > 1\" style=\"font-size: 10px;\"></span>\n                    </a>\n                    <a href=\"https://www.instagram.com/melabysm/\" target=\"_blank\">\n                        <span mbr-icon class=\"px-2 mbr-iconfont mbr-iconfont-social socicon-instagram socicon\" mbr-if=\"iconsCount > 2\" style=\"font-size: 10px;\"></span>\n                    </a>\n                    <a href=\"https://www.youtube.com/channel/UCi9KLGv9E2b3zRBhEjp9Rlw\" target=\"_blank\">\n                        <span mbr-icon class=\"px-2 mbr-iconfont mbr-iconfont-social socicon-youtube socicon\" mbr-if=\"iconsCount > 3\" style=\"font-size: 10px;\"></span>\n                    </a>\n                    <a href=\"https://www.linkedin.com/in/jade-lynn-294031182/\" target=\"_blank\">\n                        <span mbr-icon class=\"px-2 mbr-iconfont mbr-iconfont-social socicon-linkedin socicon\" mbr-if=\"iconsCount > 4\" style=\"font-size: 10px;\"></span>\n                    </a>\n                    <a href=\"https://soundcloud.com/melabysm\" target=\"_blank\">\n                        <span mbr-icon class=\"px-2 mbr-iconfont mbr-iconfont-social socicon-soundcloud socicon\" mbr-if=\"iconsCount > 5\" style=\"font-size: 10px;\"></span>\n                    </a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section group=\"Social\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" plugins=\"SocialLikes\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input inline type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input inline type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        \n        <input type=\"color\" title=\"Icons Color\" name=\"iconsColor\" value=\"#000000\"> \n        <select title=\"Icons\" name=\"iconsCount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\" selected>4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\">6</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#971919\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"color\" title=\"color2\" name=\"color2\" condition=\"bg.type=='color'\" value=\"#000000\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#efefef\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.9\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-md-8 align-center\">\n                <h2 class=\"pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">\n                    FOLLOW US!\n                </h2>\n                <div class=\"social-list pl-0 mb-0\">\n                    <a href=\"https://soundcloud.com/melabysm\" target=\"_blank\">\n                        <span mbr-icon class=\"px-2 mbr-iconfont mbr-iconfont-social socicon-soundcloud socicon\" style=\"font-size: 10px;\"></span>\n                    </a>\n                    <a href=\"https://www.facebook.com/MELABYSM\" target=\"_blank\">\n                        <span mbr-icon class=\"px-2 mbr-iconfont mbr-iconfont-social socicon-facebook socicon\" mbr-if=\"iconsCount > 1\" style=\"font-size: 10px;\"></span>\n                    </a>\n                    <a href=\"https://www.instagram.com/melabysm/\" target=\"_blank\">\n                        <span mbr-icon class=\"px-2 mbr-iconfont mbr-iconfont-social socicon-instagram socicon\" mbr-if=\"iconsCount > 2\" style=\"font-size: 10px;\"></span>\n                    </a>\n                    <a href=\"https://www.youtube.com/channel/UCi9KLGv9E2b3zRBhEjp9Rlw\" target=\"_blank\">\n                        <span mbr-icon class=\"px-2 mbr-iconfont mbr-iconfont-social socicon-youtube socicon\" mbr-if=\"iconsCount > 3\" style=\"font-size: 10px;\"></span>\n                    </a>\n                    <a href=\"https://www.linkedin.com/in/jade-lynn-294031182/\" target=\"_blank\">\n                        <span mbr-icon class=\"px-2 mbr-iconfont mbr-iconfont-social socicon-linkedin socicon\" mbr-if=\"iconsCount > 4\" style=\"font-size: 10px;\"></span>\n                    </a>\n                    <a href=\"https://soundcloud.com/melabysm\" target=\"_blank\">\n                        <span mbr-icon class=\"px-2 mbr-iconfont mbr-iconfont-social socicon-soundcloud socicon\" mbr-if=\"iconsCount > 5\" style=\"font-size: 10px;\"></span>\n                    </a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rABpLi4n55",
           "_anchor": "social-buttons2-2x",
           "_protectedParams": [],
