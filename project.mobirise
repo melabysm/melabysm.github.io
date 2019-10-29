@@ -123,7 +123,7 @@
             "bgColorRadio": false,
             "bgColor": "#465052",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-20171020-140546-130-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img_20171020_140546-130-2000x1333.jpg",
             "overlay": false,
             "overlayColor": "#efefef",
             "overlayOpacity": 0.6
@@ -2593,7 +2593,7 @@
       },
       "components": [
         {
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
+          "loadsvg": "@ADDONS_PATH@/social-feed/feed/assets/loading.svg",
           "_params": {
             "paddingTop": "4",
             "paddingBottom": "4",
@@ -4489,49 +4489,10 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/summertime-sadness-2000x2000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/summertime-sadness-2000x2000-800x800.png",
-                "alt": "Lana Del Rey Summertime Sadness lyrics artwork",
-                "title": "Summertime Sadness - Lana Del Rey",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/try-me-2000x2000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/try-me-2000x2000-800x800.png",
-                "alt": "The Weeknd Try Me lyrics artwork",
-                "title": "Try Me - The Weeknd ",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/all-alright-2000x2000.png",
                 "thumb": "@PROJECT_PATH@/assets/images/all-alright-2000x2000-800x800.png",
                 "alt": "Sigur Rós All Alright lyrics artwok",
                 "title": "All Alright - Sigur Rós",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/demons-2000x2402.png",
-                "thumb": "@PROJECT_PATH@/assets/images/demons-2000x2402-800x961.png",
-                "alt": "",
-                "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
@@ -4558,6 +4519,45 @@
                 "thumb": "@PROJECT_PATH@/assets/images/rocketeer-1-2000x2000-800x800.png",
                 "alt": "Far East Movement Rocketeer lyrics artwork",
                 "title": "Rocketeer - Far East Movement",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/demons-2000x2402.png",
+                "thumb": "@PROJECT_PATH@/assets/images/demons-2000x2402-800x961.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/try-me-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/try-me-2000x2000-800x800.png",
+                "alt": "The Weeknd Try Me lyrics artwork",
+                "title": "Try Me - The Weeknd ",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/summertime-sadness-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/summertime-sadness-2000x2000-800x800.png",
+                "alt": "Lana Del Rey Summertime Sadness lyrics artwork",
+                "title": "Summertime Sadness - Lana Del Rey",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
