@@ -5330,7 +5330,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/bookmarks-t-2000x1255.png",
-                "thumb": "@PROJECT_PATH@/assets/images/bookmarks-t-2000x1255-800x502.png",
+                "thumb": "@PROJECT_PATH@/assets/images/bookmarks-t-2000x1255-800x729.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
