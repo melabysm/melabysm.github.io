@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Melabysm",
-    "currentPage": "echos.html",
+    "currentPage": "portfolio.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -103,7 +103,7 @@
   "pages": {
     "glimpse.html": {
       "settings": {
-        "meta_descr": "A Fragmentary Glimpse of my atomic world                                                                       ",
+        "meta_descr": "A fragmentary glimpse of one's atomic world                                                                       ",
         "title": "Glimpse",
         "order": 2
       },
@@ -698,7 +698,7 @@
     },
     "echos.html": {
       "settings": {
-        "meta_descr": "The emotion that left",
+        "meta_descr": "One's Poetry and Prose",
         "title": "Echos",
         "order": 4
       },
