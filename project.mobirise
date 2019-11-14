@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Melabysm",
-    "currentPage": "melabysm.html",
+    "currentPage": "echos.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -69,18 +69,20 @@
     ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 95,
-    "versionPublish": "4.11.2",
+    "versionPublish": "4.11.5",
     "favicon": "@PROJECT_PATH@/assets/images/eye-128x76.png",
-    "noImageResize": "",
+    "noImageResize": true,
     "screenshot": "screenshot.png",
     "cookiesAlert": {
       "colorText": "#424a4d",
       "colorBg": "#eaeff1",
-      "colorButton": "#ffffff",
       "colorLink": "#424a4d",
       "underlineLink": false,
-      "opacity": "99",
-      "text": "Here is our <a href='privacy.html'>cookie policy</a>."
+      "opacity": "1",
+      "text": "Here is our <a href='privacy.html'>cookie policy</a>.",
+      "customDialogSelector": false,
+      "textButton": "Agree",
+      "colorButton": "undefined"
     },
     "gdpr": {
       "colorText": "#a7a7a7",
@@ -1062,7 +1064,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<br>Depression.\n<br>\n<br>Someday, she feels \"not herself\".\n<br>Dry orbit.\n<br>Wanted to cry out all of her vague sadness. \n<br>Hopelessly, \n<br>Add green to her blue \n<br>Bring color to her mood. \n<br>Vainnessly,\n<br>Nothing ever worked.",
+                "text": "<br>Depression.\n<br>\n<br>Someday, <br>she can't even feel her own presence.\n<br>Dry orbit.\n<br>Wanted to cry out all of her vague sadness. \n<br>Hopelessly, \n<br>Add green to her blue \n<br>Bring color to her mood. \n<br>Vainnessly,\n<br>Nothing ever worked.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323"
               },
@@ -1134,7 +1136,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "",
+                "text": "There is an ocean in your eyes \n<br>The dark, calm, deserted one \n<br>Still façade cover breaking waves \n<br>Bleak groundswell shroud gold quagmire&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323",
                 "overlayOpacity": "0.4"
@@ -1171,7 +1173,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "She's craving for tear \n<br>But her eyes are dry \n<br>She desires to cry \n<br>Though her mind is stoned \n<br>\n<br>Breathing in the sound \n<br>So she breathes out her heart \n<br>Breathing in the scar \n<br>Now she breathes out her life \n<br>\n<br>\n<br>Far from the crow, she runs \n<br>And into the wood, she'll go \n<br>\n<br>\n<br>\n<br>Will I ever found her \n<br>Between \n<br>the abyss \n<br>of \n<br>her soul.<br>",
+                "text": "She's craving for tear \n<br>But her eyes are dry \n<br>She desires to cry \n<br>Though her mind is stoned <br>Breathing in the sound \n<br>So she breathes out her heart \n<br>Breathing in the scar \n<br>Now she breathes out her life <br>Far from the crow, she runs \n<br>And into the wood, she'll go <br>Will I ever found her \n<br>Between \n<br>the abyss \n<br>of \n<br>her soul.<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323",
                 "overlayOpacity": "0.4"
@@ -1317,7 +1319,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<br>\n<br>He's uninhabitable, I'm rootless \n<br>His core is cavernous and mine is rotten<br>",
+                "text": "<br>\n<br>He's uninhabitable, I'm rootless \n<br>His core is cavernous and mine's rotten<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323"
               },
@@ -1407,7 +1409,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "I'm nonchalant, indifferent, cold<br>Even so, there's always one of those moments<br>I could be so weak, &nbsp;so vulnerable<br>wounded myself with others sticks and stones.<br><br>But all things must pass<br>and day must come to an end.<br>For when sun falls down, darkness befall, eases me off<br>then I shall be back to my status quo ante.<br><br>",
+                "text": ". . .<br>But all things must pass<br>and day must come to an end.<br>For when sun falls down, darkness befall, eases me off<br>then I shall be back to my status quo ante.<br><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323"
               },
@@ -1425,7 +1427,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "There is an ocean in your eyes\n<br>The dark, calm, deserted one\n<br>Still façade cover breaking waves\n<br>Bleak groundswell shroud gold quagmire&nbsp;<br>",
+                "text": "<br>In a starless night,<br>under florid sky<br>waiting for the Wind,<br>I'm waiting for you.<br><br>Come to me, Lover, come!<br>Quietly, &nbsp;in translucency<br><br>With the wind,<br>flow raving floret scents.<br>Smeared upon your path,<br>grim blossom's remains.<br><br>Closer and colder, my love<br>Embrace me, through sharp air, tightly<br>Kiss thee, kiss me, defined kisses<br>Leave me longing, oh my shapeless lover.&nbsp;<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323"
               },
@@ -1479,7 +1481,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "",
+                "text": "Love,<br>the only fixation that I'd ever truely looked for<br>but doomed to never be found",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323"
               }
