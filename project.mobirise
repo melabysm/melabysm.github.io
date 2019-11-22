@@ -68,7 +68,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 95,
+    "uniqCompNum": 97,
     "versionPublish": "4.11.5",
     "favicon": "@PROJECT_PATH@/assets/images/eye-128x76.png",
     "noImageResize": true,
@@ -1247,7 +1247,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "I love you to the moon and back\n<br>back\n<br>to myself<div>\n<br></div>",
+                "text": "love you to the moon and back\n<br>back\n<br>to myself<div>\n<br></div>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323"
               },
@@ -1265,7 +1265,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Cried her a river \n<br>Loathed her an ocean \n<br>still, I'm a black hole swallowing itself and everything around it for loving her",
+                "text": "Cried her a river<br>Loathed her an ocean<br>still, I'm a black hole, swallowing itself and everything around it for loving her",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323"
               },
@@ -1322,7 +1322,8 @@
                 "contentAlign": "center",
                 "text": "He's uninhabitable, I'm rootless \n<br>His core is cavernous and mine's rotten&nbsp;<br><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayColor": "#232323"
+                "overlayColor": "#232323",
+                "textTitle": ""
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/psx-20190315-200022-2000x1333.jpg",
@@ -1338,7 +1339,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Oh I, oh our love, oh your sadness<br>died in me, stayed within, kept haunting my path<br>\n<br>Hold this moment, our past, your sorrow<br>cried for me, shed these tears, on one last serenade<br>",
+                "text": "Oh I, oh our love, oh your sadness<br>died in me, stayed within, kept haunting my path<br>Hold this moment, our past, your sorrow<br>cried for me, shed these tears, on one last serenade<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323",
                 "textTitle": ""
@@ -1393,7 +1394,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "one bite<br>full mouth bittered<br>10% sweet<br>whole heart filled<br><br>wash down throat<br>again,<br>emptiness<br>leave on tongue<br>coated nostalgia<br>\n<br>reminisced<br>that bittersweet sweet<br>ruminated<br>those bittersweet taste",
+                "text": "one bite<br>full mouth bittered<br>10% sweet<br>whole heart filled<br><br>wash down throat<br>again,<br>emptiness<br>leave on tongue<br>coated nostalgia<br>\n<br>reminisced<br>that bittersweet sweet<br>ruminated<br>those bittersweet tastes",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323",
                 "textTitle": ""
@@ -1430,7 +1431,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<br><br>There is an ocean in your eyes<br>The dark, calm, deserted one<br>Still façade cover breaking waves<br>Bleak groundswell shroud gold quagmire<br>",
+                "text": "<br><br>There is an ocean in your eyes<br>The dark, calm, deserted one<br>Still façade covers breaking waves<br>Bleak groundswell shrouds gold quagmire<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323"
               },
@@ -1448,7 +1449,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<br>When I die, burry with me my dead melody\n<br>Hold in your eyes, these sorrows, don't cry\n<br>and my dire Darling!\n<br>just say goodbye.\n<br>\n<br>Plant for me, seas of jasmine\n<br>since redolence lessen grievous death\n<br>Leave on my grave, our dying bouquet\n<br>and Darling, forget about me.&nbsp;<br>",
+                "text": "<br>When I die, burry with me my dead melody<br>Hold in your eyes, these sorrows, don't cry<br>and my dire<br>Darling!<br>just say goodbye.<br>\n<br>Plant for me, seas of jasmine<br>since redolence lessen grievous death<br>Leave on my grave, our dying bouquet<br>and Darling,<br>forget about me.<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323"
               },
@@ -1484,7 +1485,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Watering eyes, sleepless night<br>Heaving moonlight, restless tide<br>Lone walk, linger through drab graves<br>Gaunt tread, buried in sharp waves<br>Sable ocean reflected empty sky<br>Sombre eyes restrained sundry motions<br>\n<br>Vanished vanishing point<br>Rendering render null and void",
+                "text": "Watering eyes, sleepless night<br>Heaving moonlight, restless tide<br><br>Lone walk, linger through drab graves<br>Gaunt tread, buried in sharp waves<br><br>Sable ocean reflected empty sky<br>Sombre eyes restrained sundry motions<br>\n<br>Vanished vanishing point<br>Rendering render null and void",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323"
               },
@@ -1502,7 +1503,7 @@
                 "title": "<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "There a moments<br>in which I could feel the presence of hollowness, inside me,<br>wrecking me off and crawling me out<br>\n<br>Less like that emptiness,<br>existed within mortality along their own space of hearts,<br>waiting to be filled up<br>\n<br>More like those vacant voids,<br>keep eroding and corroding one’s psyche",
+                "text": "There's a moments<br>in which I could feel the presence of hollowness, inside me,<br>wrecking me off and crawling me out<br>\n<br>Less like that emptiness,<br>existed within mortality along their own space of hearts,<br>waiting to be filled up<br>\n<br>More like those vacant voids,<br>keep eroding and corroding one’s psyche",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323"
               }
