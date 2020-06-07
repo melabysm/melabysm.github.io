@@ -1,2 +1,3 @@
 User-Agent: *
 Allow: / 
+Sitemap: https://melabysm.github.io/sitemap_location.xml
