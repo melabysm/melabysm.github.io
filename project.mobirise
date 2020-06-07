@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Melabysm",
-    "currentPage": "being.html",
+    "currentPage": "artworks.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2327,7 +2327,7 @@
                 "image": "@PROJECT_PATH@/assets/images/bad-love-cover-lyrics-artwork.png",
                 "thumb": "@PROJECT_PATH@/assets/images/bad-love-cover-lyrics-artwork-800x1423.png",
                 "alt": "Ry X Bad Love lyrics artwork",
-                "title": "Bad Love - Ry X ",
+                "title": "Bad Love - Ry X",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
@@ -2365,8 +2365,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/medusa-tears.png",
                 "thumb": "@PROJECT_PATH@/assets/images/medusa-tears-800x566.png",
-                "alt": "",
-                "title": "",
+                "alt": "Medusa tears",
+                "title": "Medusa's tears",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
@@ -2471,8 +2471,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/happy-cover-lyrics-artwork.png",
                 "thumb": "@PROJECT_PATH@/assets/images/happy-cover-lyrics-artwork-800x1000.png",
-                "alt": "",
-                "title": "Lana Del Rey Gods & Monsters",
+                "alt": "Happy Pharrell Woodkid Sad Remix lyrics artwork",
+                "title": "Pharrell - Happy (Woodkid Sad Remix)",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": true
@@ -2484,8 +2484,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/demons-cover-lyrics-artwork.png",
                 "thumb": "@PROJECT_PATH@/assets/images/demons-cover-lyrics-artwork-800x1000.png",
-                "alt": "",
-                "title": "",
+                "alt": "Demons Jacob Lee lyrics artwork",
+                "title": "Jacob Lee - Demons",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
@@ -2683,7 +2683,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/try-me.png",
                 "thumb": "@PROJECT_PATH@/assets/images/try-me-800x800.png",
-                "alt": "The Weeknd Try Me Lyrics Artwork",
+                "alt": "The Weeknd Try Me lyrics artwork",
                 "title": "Try Me - The Weeknd",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
@@ -2696,7 +2696,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/all-alright.png",
                 "thumb": "@PROJECT_PATH@/assets/images/all-alright-800x800.png",
-                "alt": "Sigur Rós All Alright Lyrics Artwork",
+                "alt": "Sigur Rós All Alright lyrics artwork",
                 "title": "All Alright - Sigur Rós",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
