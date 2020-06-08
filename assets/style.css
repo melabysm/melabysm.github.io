@@ -1,57 +1,42 @@
-.addons-container {
+.social-feed-container {
+  z-index: 3;
+  max-width: 600px;
+  margin: 0 auto;
   position: relative;
-  margin-left: auto;
-  margin-right: auto;
-  padding-right: 15px;
-  padding-left: 15px; }
-  @media (min-width: 576px) {
-    .addons-container {
-      padding-right: 15px;
-      padding-left: 15px; } }
-  @media (min-width: 768px) {
-    .addons-container {
-      padding-right: 15px;
-      padding-left: 15px; } }
-  @media (min-width: 992px) {
-    .addons-container {
-      padding-right: 15px;
-      padding-left: 15px; } }
-  @media (min-width: 1200px) {
-    .addons-container {
-      padding-right: 15px;
-      padding-left: 15px; } }
-  @media (min-width: 576px) {
-    .addons-container {
-      width: 540px;
-      max-width: 100%; } }
-  @media (min-width: 768px) {
-    .addons-container {
-      width: 720px;
-      max-width: 100%; } }
-  @media (min-width: 992px) {
-    .addons-container {
-      width: 960px;
-      max-width: 100%; } }
-  @media (min-width: 1200px) {
-    .addons-container {
-      width: 1140px;
-      max-width: 100%; } }
+}
 
-.addons-container-inner{
-    position: relative;
-    width: 100%;
-    min-height: 1px;
-    padding-right: 15px;
-    padding-left: 15px;
+.is-builder  .mbr-social-feed{
+  min-height: 125px;
 }
-@media (min-width: 567px) {
-    .addons-container-inner{
-        -ms-flex: 0 0 66.666667%;
-        flex: 0 0 66.666667%;
-        max-width: 66.666667%;
-    }
+.mbr-social-feed {
+  text-align: center;
+  
+  position: relative;
+  background-size: cover;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
-.addons-row{
-    display: flex;
-    justify-content:center;
+
+.social-feed-container-loading {
+  margin: 0 auto;
+  display: none;
+}
+
+.is-builder .loading .social-feed-container-loading {
+  display: block;
+}
+
+.social-feed-element iframe {
+  width: 100%;
+  height: 300px;
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .social-feed-element {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+  }
 }
