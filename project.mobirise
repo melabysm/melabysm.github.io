@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Melabysm",
-    "currentPage": "melabysm.html",
+    "currentPage": "echos.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -366,7 +366,7 @@
                 "title": "",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Love,<br>the only fixation that I'd ever truely looked for<br>but doomed to never be found<br>",
+                "text": "Love,<br>the only fixation that I'd ever truly looked for<br>but is doomed to never be able to find<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#232323"
               },
