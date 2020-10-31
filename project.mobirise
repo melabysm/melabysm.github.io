@@ -85,7 +85,8 @@
     "": "on",
     "imageResize": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "echos.html": {
