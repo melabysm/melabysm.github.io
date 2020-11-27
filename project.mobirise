@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Melabysm",
-    "currentPage": "melabysm.html",
+    "currentPage": "echos.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -91,7 +91,7 @@
   "pages": {
     "echos.html": {
       "settings": {
-        "meta_descr": "Dedicated to love and sadness",
+        "meta_descr": "Dedicated to limerence and sadness",
         "title": "Echos",
         "order": 4
       },
